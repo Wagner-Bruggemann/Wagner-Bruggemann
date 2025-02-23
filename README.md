@@ -10,7 +10,7 @@ Atualmente, estou me dedicando a estudos para a certificação OCP (Oracle Certi
 ## Tecnologias que eu utilizo
 Back-end: Java, Spring Boot, REST APIs
 Front-end: Vue.js, React,js, Next.js, JavaScript
-Outros: Git, Docker (explorando!), e um café forte pra ajudar no código ☕
+Outros: Git, Docker (explorando!)
 
 ## O que estou fazendo agora
 Estudando para a certificação OCP.
