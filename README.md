@@ -23,3 +23,6 @@ Sempre aberto a trocar ideias sobre tech, então sinta-se à vontade para me cha
 ## Como me encontrar
 LinkedIn: Wagner Brüggemann
 Email: wagner.bruggemann@gmail.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&theme=default)
+
